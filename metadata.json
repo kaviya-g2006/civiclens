@@ -1,0 +1,8 @@
+{
+  "name": "Remix CivicLens",
+  "description": "AI-powered citizen platform to Discover government schemes and rights, Prepare verified documents, and Verify suspicious public information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
